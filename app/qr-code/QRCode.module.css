@@ -1,0 +1,41 @@
+.body {
+    background-color: #D6E1F0;
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    padding: 2rem
+}
+
+.component {
+    background-color: white;
+    margin: 0 auto;
+    width: 350px;
+    padding: 1rem;
+    border-radius: 20px;
+}
+
+
+.image {
+    width: 100%;
+    border-radius: 20px;
+    margin-bottom: 1.5rem;
+}
+
+.textBox {
+    width: 95%;
+    margin: 0 auto;
+    margin-bottom: 1.5rem;
+}
+
+.title {
+    font-size: 1.3rem;
+    font-weight: 800;
+    text-align: center;
+    color: #243051;
+    margin-bottom: 1rem;
+}
+
+.description {
+    text-align: center;
+    color: #828899
+}
